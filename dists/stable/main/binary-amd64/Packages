@@ -1,3 +1,19 @@
+Package: den
+Version: 0.2.0-1
+Architecture: all
+Maintainer: RaghavGohil <raghavgohil2004@gmail.com>
+Installed-Size: 73
+Depends: python3 (>= 3.12)
+Filename: pool/main/den_0.2.0-1_all.deb
+Size: 14140
+MD5sum: 28b50a5b814e7b015ee37747cd21a9fa
+SHA1: 1418325972489542a41503480c34e53467f7fb47
+SHA256: 890c9566b9fbb426cc0fb2d04fc7b2c41ead81e5a6ed72327601c5b46b52775e
+Section: utils
+Priority: optional
+Homepage: https://github.com/RaghavGohil/den
+Description: Context management for projects made easy.
+
 Package: luffy
 Version: 1.1.5-1
 Architecture: amd64
