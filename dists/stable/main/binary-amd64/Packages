@@ -1,0 +1,17 @@
+Package: luffy
+Version: 1.1.4-1
+Architecture: amd64
+Maintainer: Swarnaditya Singh <swarnadityasingh@pm.me>
+Installed-Size: 3627
+Depends: libsixel-bin, chafa, mpv, fzf, yt-dlp, ffmpeg
+Filename: pool/main/luffy-1.1.4-amd64.deb
+Size: 3704748
+MD5sum: 107509d39c96740c7eba8cd63c6ac54f
+SHA1: f06c17e11a1c1b2cbbbcb46c30a6269c8addab18
+SHA256: 61bcd39f0db102380a6a2e5a6ee73622901278a7216c75dce6bbe6451247359f
+Section: utils
+Priority: optional
+Homepage: https://github.com/demonkingswarn/luffy
+Description: Watch movies and series from the terminal
+ Spiritual successor of flix-cli and mov-cli.
+
