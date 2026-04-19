@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+apt update && apt install -y dpkg-dev apt-utils gnupg
+
 dpkg-scanpackages pool/main /dev/null > dists/stable/main/binary-amd64/Packages
 gzip -k dists/stable/main/binary-amd64/Packages
 

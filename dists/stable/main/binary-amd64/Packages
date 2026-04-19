@@ -1,14 +1,14 @@
 Package: luffy
-Version: 1.1.4-1
+Version: 1.1.5-1
 Architecture: amd64
 Maintainer: Swarnaditya Singh <swarnadityasingh@pm.me>
-Installed-Size: 3627
+Installed-Size: 3626
 Depends: libsixel-bin, chafa, mpv, fzf, yt-dlp, ffmpeg
-Filename: pool/main/luffy-1.1.4-amd64.deb
-Size: 3704748
-MD5sum: 107509d39c96740c7eba8cd63c6ac54f
-SHA1: f06c17e11a1c1b2cbbbcb46c30a6269c8addab18
-SHA256: 61bcd39f0db102380a6a2e5a6ee73622901278a7216c75dce6bbe6451247359f
+Filename: pool/main/luffy-1.1.5-amd64.deb
+Size: 3703810
+MD5sum: 08f662207339f8133383a9cedd11719f
+SHA1: 13650b0909c64010e58413ad9786098842fe523b
+SHA256: 5013395f88e410389d30271ef1a92b0ba789c057254724ba90aa9ae62c4a55b8
 Section: utils
 Priority: optional
 Homepage: https://github.com/demonkingswarn/luffy
