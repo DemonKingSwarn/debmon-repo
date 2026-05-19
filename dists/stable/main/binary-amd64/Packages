@@ -15,16 +15,16 @@ Homepage: https://github.com/RaghavGohil/den
 Description: Context management for projects made easy.
 
 Package: luffy
-Version: 1.1.5-1
+Version: 1.2.0-1
 Architecture: amd64
 Maintainer: Swarnaditya Singh <swarnadityasingh@pm.me>
-Installed-Size: 3626
+Installed-Size: 4221
 Depends: libsixel-bin, chafa, mpv, fzf, yt-dlp, ffmpeg
-Filename: pool/main/luffy-1.1.5-amd64.deb
-Size: 3703810
-MD5sum: 08f662207339f8133383a9cedd11719f
-SHA1: 13650b0909c64010e58413ad9786098842fe523b
-SHA256: 5013395f88e410389d30271ef1a92b0ba789c057254724ba90aa9ae62c4a55b8
+Filename: pool/main/luffy-1.2.0-amd64.deb
+Size: 4313630
+MD5sum: 0c146c6855b88a8b63a924dead04fa9e
+SHA1: 36cd1dd5a10688a4a063aa9e288a7bcbfa46aa88
+SHA256: e393af641cbbdbd21581a5c506004050912d84f0264946870b9db4e28014707d
 Section: utils
 Priority: optional
 Homepage: https://github.com/demonkingswarn/luffy
